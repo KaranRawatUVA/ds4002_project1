@@ -1,64 +1,64 @@
-Name,Unifying Words Count,Polarizing Words Count,Total Words Count,Overall Language,Unifying Words Ratio,Polarizing Words Ratio
-Donald J. Trump (2nd Term),20,23,2905,polarizing,0.00688,0.00792
-"Joseph R. Biden, Jr.",31,6,2532,unifying,0.01224,0.00237
-Donald J. Trump (1st Term),12,4,1455,unifying,0.00825,0.00275
-Barack Obama,15,5,2090,unifying,0.00718,0.00239
-Barack Obama,13,15,2391,polarizing,0.00544,0.00627
-George W. Bush,14,14,2069,polarizing,0.00677,0.00677
-George W. Bush,12,4,1591,unifying,0.00754,0.00251
-William J. Clinton,26,3,2156,unifying,0.01206,0.00139
-William J. Clinton,7,7,1598,polarizing,0.00438,0.00438
-George Bush,14,0,2320,unifying,0.00603,0.0
-Ronald Reagan,21,13,2561,unifying,0.0082,0.00508
-Ronald Reagan,19,5,2423,unifying,0.00784,0.00206
-Jimmy Carter,16,2,1212,unifying,0.0132,0.00165
-Richard Nixon,13,2,1833,unifying,0.00709,0.00109
-Richard Nixon,17,4,2104,unifying,0.00808,0.0019
-Lyndon B. Johnson,8,6,1498,unifying,0.00534,0.00401
-John F. Kennedy,9,6,1341,unifying,0.00671,0.00447
-Dwight D. Eisenhower,6,2,1636,unifying,0.00367,0.00122
-Dwight D. Eisenhower,18,4,2445,unifying,0.00736,0.00164
-Harry S Truman,23,10,2269,unifying,0.01014,0.00441
-Franklin D. Roosevelt,2,0,545,unifying,0.00367,0.0
-Franklin D. Roosevelt,6,2,1336,unifying,0.00449,0.0015
-Franklin D. Roosevelt,9,6,1801,unifying,0.005,0.00333
-Franklin D. Roosevelt,6,9,1880,polarizing,0.00319,0.00479
-Herbert Hoover,22,14,3843,unifying,0.00572,0.00364
-Calvin Coolidge,10,7,4057,unifying,0.00246,0.00173
-Warren G. Harding,11,9,3326,unifying,0.00331,0.00271
-Woodrow Wilson,14,0,1522,unifying,0.0092,0.0
-Woodrow Wilson,5,1,1699,unifying,0.00294,0.00059
-William Howard Taft,13,14,5427,polarizing,0.0024,0.00258
-Theodore Roosevelt,0,1,983,polarizing,0.0,0.00102
-William McKinley,12,3,2215,unifying,0.00542,0.00135
-William McKinley,16,5,3957,unifying,0.00404,0.00126
-Grover Cleveland,6,9,2013,polarizing,0.00298,0.00447
-Benjamin Harrison,12,7,4385,unifying,0.00274,0.0016
-Grover Cleveland,2,2,1677,polarizing,0.00119,0.00119
-Chester A. Arthur,0,1,433,polarizing,0.0,0.00231
-James A. Garfield,9,15,2973,polarizing,0.00303,0.00505
-Rutherford B. Hayes,8,2,2471,unifying,0.00324,0.00081
-Ulysses S. Grant,3,3,1335,polarizing,0.00225,0.00225
-Ulysses S. Grant,4,1,1121,unifying,0.00357,0.00089
-Andrew Johnson,0,0,360,polarizing,0.0,0.0
-Abraham Lincoln,3,2,698,unifying,0.0043,0.00287
-Abraham Lincoln,11,10,3628,unifying,0.00303,0.00276
-James Buchanan,11,10,2820,unifying,0.0039,0.00355
-Franklin Pierce,7,10,3332,polarizing,0.0021,0.003
-Zachary Taylor,2,0,1087,unifying,0.00184,0.0
-James K. Polk,27,9,4793,unifying,0.00563,0.00188
-John Tyler,6,2,1670,unifying,0.00359,0.0012
-William Henry Harrison,23,17,8425,unifying,0.00273,0.00202
-Martin van Buren,13,15,3826,polarizing,0.0034,0.00392
-Andrew Jackson,7,3,1171,unifying,0.00598,0.00256
-Andrew Jackson,3,1,1124,unifying,0.00267,0.00089
-John Quincy Adams,10,5,2907,unifying,0.00344,0.00172
-James Monroe,22,12,4461,unifying,0.00493,0.00269
-James Monroe,21,16,3367,unifying,0.00624,0.00475
-James Madison,6,6,1210,polarizing,0.00496,0.00496
-James Madison,3,1,1173,unifying,0.00256,0.00085
-Thomas Jefferson,4,3,2157,unifying,0.00185,0.00139
-Thomas Jefferson,2,1,1717,unifying,0.00116,0.00058
-John Adams,4,7,2319,polarizing,0.00172,0.00302
-George Washington,2,0,135,unifying,0.01481,0.0
-George Washington,7,2,1430,unifying,0.0049,0.0014
+Name,Unifying Words Count,Polarizing Words Count,Total Words Count,Political Party,Overall Language,Unifying Words Ratio,Polarizing Words Ratio
+Donald J. Trump (2nd Term),20,23,2905,Republican,polarizing,0.00688,0.00792
+"Joseph R. Biden, Jr.",31,6,2532,Democrat,unifying,0.01224,0.00237
+Donald J. Trump (1st Term),12,4,1455,Republican,unifying,0.00825,0.00275
+Barack Obama,15,5,2090,Democrat,unifying,0.00718,0.00239
+Barack Obama,13,15,2391,Democrat,polarizing,0.00544,0.00627
+George W. Bush,14,14,2069,Republican,polarizing,0.00677,0.00677
+George W. Bush,12,4,1591,Republican,unifying,0.00754,0.00251
+William J. Clinton,26,3,2156,Democrat,unifying,0.01206,0.00139
+William J. Clinton,7,7,1598,Democrat,polarizing,0.00438,0.00438
+George Bush,14,0,2320,Republican,unifying,0.00603,0.0
+Ronald Reagan,21,13,2561,Republican,unifying,0.0082,0.00508
+Ronald Reagan,19,5,2423,Republican,unifying,0.00784,0.00206
+Jimmy Carter,16,2,1212,Democrat,unifying,0.0132,0.00165
+Richard Nixon,13,2,1833,Republican,unifying,0.00709,0.00109
+Richard Nixon,17,4,2104,Republican,unifying,0.00808,0.0019
+Lyndon B. Johnson,8,6,1498,Democrat,unifying,0.00534,0.00401
+John F. Kennedy,9,6,1341,Democrat,unifying,0.00671,0.00447
+Dwight D. Eisenhower,6,2,1636,Republican,unifying,0.00367,0.00122
+Dwight D. Eisenhower,18,4,2445,Republican,unifying,0.00736,0.00164
+Harry S Truman,23,10,2269,Democrat,unifying,0.01014,0.00441
+Franklin D. Roosevelt,2,0,545,Democrat,unifying,0.00367,0.0
+Franklin D. Roosevelt,6,2,1336,Democrat,unifying,0.00449,0.0015
+Franklin D. Roosevelt,9,6,1801,Democrat,unifying,0.005,0.00333
+Franklin D. Roosevelt,6,9,1880,Democrat,polarizing,0.00319,0.00479
+Herbert Hoover,22,14,3843,Republican,unifying,0.00572,0.00364
+Calvin Coolidge,10,7,4057,Republican,unifying,0.00246,0.00173
+Warren G. Harding,11,9,3326,Republican,unifying,0.00331,0.00271
+Woodrow Wilson,14,0,1522,Democrat,unifying,0.0092,0.0
+Woodrow Wilson,5,1,1699,Democrat,unifying,0.00294,0.00059
+William Howard Taft,13,14,5427,Republican,polarizing,0.0024,0.00258
+Theodore Roosevelt,0,1,983,Republican,polarizing,0.0,0.00102
+William McKinley,12,3,2215,Republican,unifying,0.00542,0.00135
+William McKinley,16,5,3957,Republican,unifying,0.00404,0.00126
+Grover Cleveland,6,9,2013,Democrat,polarizing,0.00298,0.00447
+Benjamin Harrison,12,7,4385,Republican,unifying,0.00274,0.0016
+Grover Cleveland,2,2,1677,Democrat,polarizing,0.00119,0.00119
+Chester A. Arthur,0,1,433,Republican,polarizing,0.0,0.00231
+James A. Garfield,9,15,2973,Republican,polarizing,0.00303,0.00505
+Rutherford B. Hayes,8,2,2471,Republican,unifying,0.00324,0.00081
+Ulysses S. Grant,3,3,1335,Republican,polarizing,0.00225,0.00225
+Ulysses S. Grant,4,1,1121,Republican,unifying,0.00357,0.00089
+Andrew Johnson,0,0,360,Democrat (Union),polarizing,0.0,0.0
+Abraham Lincoln,3,2,698,Republican,unifying,0.0043,0.00287
+Abraham Lincoln,11,10,3628,Republican,unifying,0.00303,0.00276
+James Buchanan,11,10,2820,Democrat,unifying,0.0039,0.00355
+Franklin Pierce,7,10,3332,Democrat,polarizing,0.0021,0.003
+Zachary Taylor,2,0,1087,Whig,unifying,0.00184,0.0
+James K. Polk,27,9,4793,Democrat,unifying,0.00563,0.00188
+John Tyler,6,2,1670,Whig (later Unaffiliated),unifying,0.00359,0.0012
+William Henry Harrison,23,17,8425,Whig,unifying,0.00273,0.00202
+Martin van Buren,13,15,3826,Democrat,polarizing,0.0034,0.00392
+Andrew Jackson,7,3,1171,Democrat,unifying,0.00598,0.00256
+Andrew Jackson,3,1,1124,Democrat,unifying,0.00267,0.00089
+John Quincy Adams,10,5,2907,Democratic-Republican,unifying,0.00344,0.00172
+James Monroe,22,12,4461,Democratic-Republican,unifying,0.00493,0.00269
+James Monroe,21,16,3367,Democratic-Republican,unifying,0.00624,0.00475
+James Madison,6,6,1210,Democratic-Republican,polarizing,0.00496,0.00496
+James Madison,3,1,1173,Democratic-Republican,unifying,0.00256,0.00085
+Thomas Jefferson,4,3,2157,Democratic-Republican,unifying,0.00185,0.00139
+Thomas Jefferson,2,1,1717,Democratic-Republican,unifying,0.00116,0.00058
+John Adams,4,7,2319,Federalist,polarizing,0.00172,0.00302
+George Washington,2,0,135,No formal party,unifying,0.01481,0.0
+George Washington,7,2,1430,No formal party,unifying,0.0049,0.0014
