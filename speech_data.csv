@@ -8,7 +8,7 @@ George W. Bush,14,14,2069,Republican,polarizing,0.00677,0.00677,1.0
 George W. Bush,12,4,1591,Republican,unifying,0.00754,0.00251,3.004
 William J. Clinton,26,3,2156,Democrat,unifying,0.01206,0.00139,8.6763
 William J. Clinton,7,7,1598,Democrat,polarizing,0.00438,0.00438,1.0
-George Bush,14,0,2320,Republican,unifying,0.00603,0.0,inf
+George Bush,14,0,2320,Republican,unifying,0.00603,0.0,0.0
 Ronald Reagan,21,13,2561,Republican,unifying,0.0082,0.00508,1.6142
 Ronald Reagan,19,5,2423,Republican,unifying,0.00784,0.00206,3.8058
 Jimmy Carter,16,2,1212,Democrat,unifying,0.0132,0.00165,8.0
@@ -19,14 +19,14 @@ John F. Kennedy,9,6,1341,Democrat,unifying,0.00671,0.00447,1.5011
 Dwight D. Eisenhower,6,2,1636,Republican,unifying,0.00367,0.00122,3.0082
 Dwight D. Eisenhower,18,4,2445,Republican,unifying,0.00736,0.00164,4.4878
 Harry S Truman,23,10,2269,Democrat,unifying,0.01014,0.00441,2.2993
-Franklin D. Roosevelt,2,0,545,Democrat,unifying,0.00367,0.0,inf
+Franklin D. Roosevelt,2,0,545,Democrat,unifying,0.00367,0.0,0.0
 Franklin D. Roosevelt,6,2,1336,Democrat,unifying,0.00449,0.0015,2.9933
 Franklin D. Roosevelt,9,6,1801,Democrat,unifying,0.005,0.00333,1.5015
 Franklin D. Roosevelt,6,9,1880,Democrat,polarizing,0.00319,0.00479,0.666
 Herbert Hoover,22,14,3843,Republican,unifying,0.00572,0.00364,1.5714
 Calvin Coolidge,10,7,4057,Republican,unifying,0.00246,0.00173,1.422
 Warren G. Harding,11,9,3326,Republican,unifying,0.00331,0.00271,1.2214
-Woodrow Wilson,14,0,1522,Democrat,unifying,0.0092,0.0,inf
+Woodrow Wilson,14,0,1522,Democrat,unifying,0.0092,0.0,0.0
 Woodrow Wilson,5,1,1699,Democrat,unifying,0.00294,0.00059,4.9831
 William Howard Taft,13,14,5427,Republican,polarizing,0.0024,0.00258,0.9302
 Theodore Roosevelt,0,1,983,Republican,polarizing,0.0,0.00102,0.0
@@ -45,7 +45,7 @@ Abraham Lincoln,3,2,698,Republican,unifying,0.0043,0.00287,1.4983
 Abraham Lincoln,11,10,3628,Republican,unifying,0.00303,0.00276,1.0978
 James Buchanan,11,10,2820,Democrat,unifying,0.0039,0.00355,1.0986
 Franklin Pierce,7,10,3332,Democrat,polarizing,0.0021,0.003,0.7
-Zachary Taylor,2,0,1087,Whig,unifying,0.00184,0.0,inf
+Zachary Taylor,2,0,1087,Whig,unifying,0.00184,0.0,0.0
 James K. Polk,27,9,4793,Democrat,unifying,0.00563,0.00188,2.9947
 John Tyler,6,2,1670,Whig (later Unaffiliated),unifying,0.00359,0.0012,2.9917
 William Henry Harrison,23,17,8425,Whig,unifying,0.00273,0.00202,1.3515
@@ -60,5 +60,5 @@ James Madison,3,1,1173,Democratic-Republican,unifying,0.00256,0.00085,3.0118
 Thomas Jefferson,4,3,2157,Democratic-Republican,unifying,0.00185,0.00139,1.3309
 Thomas Jefferson,2,1,1717,Democratic-Republican,unifying,0.00116,0.00058,2.0
 John Adams,4,7,2319,Federalist,polarizing,0.00172,0.00302,0.5695
-George Washington,2,0,135,No formal party,unifying,0.01481,0.0,inf
+George Washington,2,0,135,No formal party,unifying,0.01481,0.0,0.0
 George Washington,7,2,1430,No formal party,unifying,0.0049,0.0014,3.5
