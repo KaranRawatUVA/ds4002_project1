@@ -20,6 +20,9 @@
 #### 3. Facet Grid Scatterplot: Total Word Count vs. Overall Ratio by Political Party
 ![image](https://github.com/user-attachments/assets/dbf99ec6-a20d-4d4b-882e-36cb266b9ae3)
 
+### 4. Scatterplot: Unifying vs. Polarizing Words Ratios by Political Party 
+![image](https://github.com/user-attachments/assets/26c9a880-d295-4af9-8fd1-4207e03c5303)
+
 ## Model Accuracy Metrics 
 <img width="416" alt="Screenshot 2025-02-13 at 11 34 58 AM" src="https://github.com/user-attachments/assets/495a7b73-8882-4e5a-94b7-5f23343adc98" />
 
