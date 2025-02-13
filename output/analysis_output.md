@@ -1,6 +1,6 @@
 ## Descriptive Statistics 
 
-## 1. 5-Number Summary: Overall Ratio of Unifying Words to Polarizing Words (normalized by total number of words) ##
+#### 1. 5-Number Summary: Overall Ratio of Unifying Words to Polarizing Words (normalized by total number of words) 
 <img width="295" alt="Screenshot 2025-02-13 at 11 27 09 AM" src="https://github.com/user-attachments/assets/5c5ced58-0261-488d-a6c0-7e448bcfc311" />
 
 #### 2. 5-Number Summary: Total Unifying Words used
@@ -11,13 +11,13 @@
 
 ## Exploratory Plots 
 
-1. Kernel Density Plot: Distributions of Overall Ratios of Unifying to Polarizing Language used by Political Party
+#### 1. Kernel Density Plot: Distributions of Overall Ratios of Unifying to Polarizing Language used by Political Party
 ![image](https://github.com/user-attachments/assets/eabb466c-47eb-40d9-aa84-d572cd491716)
 
-2. Boxplot/Beeswarm Plot: Overall Ratios by of Unifying to Polarizing Language used by Political Party
+#### 2. Boxplot/Beeswarm Plot: Overall Ratios by of Unifying to Polarizing Language used by Political Party
    ![image](https://github.com/user-attachments/assets/7d810b3e-58fe-4e8a-bce2-1d600e286ae0)
 
-3. Facet Grid Scatterplot: Total Word Count vs. Overall Ratio by Political Party
+#### 3. Facet Grid Scatterplot: Total Word Count vs. Overall Ratio by Political Party
 ![image](https://github.com/user-attachments/assets/dbf99ec6-a20d-4d4b-882e-36cb266b9ae3)
 
 ## Model Accuracy Metrics 
