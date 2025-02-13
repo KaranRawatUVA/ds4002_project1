@@ -16,12 +16,12 @@ All of these packages would have to be downloaded in order to run the notebooks.
 
 ## Section 2 -- Directory Map
 ds4002_project1<br>
-├── data<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;└── speech_data.csv<br>
-├── notebook<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;├── EDA.ipynb<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;├── analysis.ipynb<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;└── scraping_cleaning.ipynb<br>
+├── data
+│   └── speech_data.csv
+├── notebook
+│   ├── EDA.ipynb
+│   ├── analysis.ipynb
+│   └── scraping_cleaning.ipynb
 
 
 ## Section 3 -- Reproducing the Results
