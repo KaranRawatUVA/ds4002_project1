@@ -21,7 +21,7 @@ ds4002_project1<br>
 ├── notebook<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;├── EDA.ipynb<br>
 │&nbsp;&nbsp;&nbsp;&nbsp;├── analysis.ipynb<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;└── scraping.ipynb<br>
+│&nbsp;&nbsp;&nbsp;&nbsp;└── scraping_cleaning.ipynb<br>
 
 
 ## Section 3 -- Reproducing the Results
