@@ -27,6 +27,6 @@ ds4002_project1<br>
 ## Section 3 -- Reproducing the Results
 
 1. [Clone the repository](https://github.com/KaranRawatUVA/ds4002_project1.git)
-2. First go to the python notebook _scraping.ipynb_ and run each code box in order. This will produce the data set.
+2. First go to the python notebook _scraping_cleaning.ipynb_ and run each code box in order. This will produce the data set.
 4. Now go to the python notebook _EDA.ipynb_ and run each code box in order. This will produce data visualization.
 5. Lastly, go to the python notebook _analysis.ipynb_ and run each code box in order. This will produce the statistical analysis. 
