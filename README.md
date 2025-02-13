@@ -15,13 +15,19 @@ Throughout this project we used Github, Jupyter Notebook, VS Code and Python. Th
 All of these packages would have to be downloaded in order to run the notebooks. Both Windows and Mac were used to complete this project. 
 
 ## Section 2 -- Directory Map
-ds4002_project1<br>
-├── data<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;└── speech_data.csv<br>
-├── notebook<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;├── EDA.ipynb<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;├── analysis.ipynb<br>
-│&nbsp;&nbsp;&nbsp;&nbsp;└── scraping_cleaning.ipynb<br>
+ds4002_project1/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;├── data/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└── speech_data.csv<br>
+&nbsp;&nbsp;&nbsp;&nbsp;├── output/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└── analysis_output.md<br>
+&nbsp;&nbsp;&nbsp;&nbsp;├── scripts/<br>
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── EDA.ipynb<br>
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;├── analysis.ipynb<br>
+&nbsp;&nbsp;&nbsp;&nbsp;│&nbsp;&nbsp;&nbsp;&nbsp;└── scraping_cleaning.ipynb<br>
+&nbsp;&nbsp;&nbsp;&nbsp;├── LICENSE.md<br>
+&nbsp;&nbsp;&nbsp;&nbsp;├── README.md<br>
+&nbsp;&nbsp;&nbsp;&nbsp;└── DATA_APPENDIX.pdf<br>
+
 
 
 ## Section 3 -- Reproducing the Results
