@@ -1,12 +1,12 @@
 ## Descriptive Statistics 
 
-1. 5-Number Summary: Overall Ratio of Unifying Words to Polarizing Words (normalized by total number of words)
+#### 1. 5-Number Summary: Overall Ratio of Unifying Words to Polarizing Words (normalized by total number of words)
 <img width="295" alt="Screenshot 2025-02-13 at 11 27 09 AM" src="https://github.com/user-attachments/assets/5c5ced58-0261-488d-a6c0-7e448bcfc311" />
 
-2. 5-Number Summary: Total Unifying Words used
+#### 2. 5-Number Summary: Total Unifying Words used
 <img width="321" alt="Screenshot 2025-02-13 at 11 29 20 AM" src="https://github.com/user-attachments/assets/e5c327aa-9023-43ec-b17f-f4ab26855d38" />
 
-3. 5-Number Summary: Total Polarizing Words used
+#### 3. 5-Number Summary: Total Polarizing Words used
 <img width="343" alt="Screenshot 2025-02-13 at 11 28 57 AM" src="https://github.com/user-attachments/assets/af143ee4-7d9f-4205-9edd-924751a66e89" />
 
 ## Exploratory Plots 
